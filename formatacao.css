@@ -1,0 +1,39 @@
+body{
+width: 96%;
+max-width:800px
+margin: center;
+background: url(background.jpg) center;
+font-family: sans-serif;
+line-height:1,5;
+color: white;
+}
+main{
+background: #0000007a;
+padding: 20px 40px;
+margin-top: 10px;
+border-radius: 10px;
+}
+.logo{
+margin:0;
+text-align: center;
+}
+.bandname{
+margin:0;
+text-align: center;
+}
+.headline{
+margin:0;
+text-align: center;
+}
+.concerts{
+margin:30 px 0;
+text-align: center;
+width:100%;
+}
+
+.concerts table{
+border-radius: 10px;
+padding: 10px;
+margin:auto;
+}
+
